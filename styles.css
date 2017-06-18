@@ -1,0 +1,30 @@
+body {
+  padding-top: 5em;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+p {
+  padding-top: 1em;
+  font-weight: 100;
+  line-height: 150%;
+}
+a:link {
+  font-weight: 200;
+  color: black;
+}
+a:visited {
+  font-weight: 200;
+  color: black;
+}
+.content {
+  text-align: center;
+  margin-top: 3em;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+.intro {
+  padding-top: 2em;
+}
+#logo {
+  width: 4em;
+}
